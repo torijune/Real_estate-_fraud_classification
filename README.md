@@ -28,25 +28,25 @@
 ---
 
 ## 📂 프로젝트 구조
-
+```bash
 📦 real-estate-fake-listing-detection
- ┣ 📂 data  
- ┃ ┣ 📜 train.csv             
- ┃ ┣ 📜 test.csv  
- ┃ ┣ 📜 sample_submission.csv  
- ┣ 📂 notebooks  
- ┃ ┣ 📜 prepro_train.ipynb  
- ┃ ┣ 📜 preprocessing.ipynb   
- ┃ ┣ 📜 EDA.ipynb   
- ┣ 📂 modeling  
- ┃ ┣ 📜 DL_model_training.py
- ┃ ┣ 📜 ML_model_training.py
- ┣ 📂 src                 
- ┃ ┣ 📜 model_prediction.py       
- ┃ ┣ 📜 preprocessor.py      
- ┣ 📜 README.md             
- ┣ 📜 requirements.txt  
-
+ ├── 📂 data  
+ │ ├── 📜 train.csv             
+ │ ├── 📜 test.csv  
+ │ └── 📜 sample_submission.csv  
+ ├── 📂 notebooks  
+ │ ├── 📜 prepro_train.ipynb  
+ │ ├── 📜 preprocessing.ipynb   
+ │ └── 📜 EDA.ipynb   
+ ├── 📂 modeling  
+ │ ├── 📜 DL_model_training.py
+ │ └── 📜 ML_model_training.py
+ ├── 📂 src                 
+ │ ├── 📜 model_prediction.py       
+ │ └── 📜 preprocessor.py      
+ ├── 📜 README.md             
+ └── 📜 requirements.txt  
+```
  ---
 
 ## 📊 데이터 설명
