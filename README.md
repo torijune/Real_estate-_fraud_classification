@@ -35,17 +35,15 @@
  ┃ ┣ 📜 test.csv  
  ┃ ┣ 📜 sample_submission.csv  
  ┣ 📂 notebooks  
- ┃ ┣ 📜 01_data_analysis.ipynb  
- ┃ ┣ 📜 02_feature_engineering.ipynb  
- ┃ ┣ 📜 03_model_training.ipynb  
- ┃ ┣ 📜 04_hyperparameter_tuning.ipynb  
- ┣ 📂 models  
- ┃ ┣ 📜 best_xgboost_model.pkl  
- ┃ ┣ 📜 best_lightgbm_model.pkl  
+ ┃ ┣ 📜 prepro_train.ipynb  
+ ┃ ┣ 📜 preprocessing.ipynb   
+ ┃ ┣ 📜 EDA.ipynb   
+ ┣ 📂 modeling  
+ ┃ ┣ 📜 DL_model_training.py
+ ┃ ┣ 📜 ML_model_training.py
  ┣ 📂 src                 
- ┃ ┣ 📜 preprocess.py       
- ┃ ┣ 📜 train.py            
- ┃ ┣ 📜 inference.py       
+ ┃ ┣ 📜 model_prediction.py       
+ ┃ ┣ 📜 preprocessor.py      
  ┣ 📜 README.md             
  ┣ 📜 requirements.txt  
 
