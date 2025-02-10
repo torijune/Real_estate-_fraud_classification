@@ -30,7 +30,7 @@
 
 ## 📂 프로젝트 구조
 ```bash
-📦 real-estate-fake-listing-detection
+📦 Real_estate_fraud_classification
  ├── 📂 data  
  │ ├── 📜 train.csv             
  │ ├── 📜 test.csv  
